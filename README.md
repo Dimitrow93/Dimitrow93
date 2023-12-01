@@ -1,5 +1,5 @@
 # 👋 Hi, My name is Dmitry.
-- A lot of time worked as analyst in national power grid operator⚡.
+- Long period of time worked as analyst in national power grid operator⚡.
 - Now interested in data analytics in commerce/financial sector.
 - Currently occupied in studies and pet-project making.
 - Open for job offers🕵.
